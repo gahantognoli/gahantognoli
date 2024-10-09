@@ -13,5 +13,7 @@ I was born in Brazil in 1998. Programming since 2014. A tech lover. Currently st
 ✅ Docker, Kubernetes  
 ✅ Flutter, React Native  
 ✅ Prometheus, Grafana, Zabbix  
-✅ RabbitMQ  
+✅ NewRelic, DataDog
+✅ RabbitMQ, Kafka
+✅ Linux
 ✅ Git
