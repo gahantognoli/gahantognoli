@@ -1,7 +1,6 @@
 # Hi there, I'm Gabriel Antognoli! 👋  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+![Profile Views](https://komarev.com/ghpvc/?username=gahantognoli&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gabriel-antognoli-586a16134)  
 
 ---
 
@@ -25,14 +24,13 @@ Here are some technologies I work with:
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)  
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)  
-![GraphQL](https://img.shields.io/badge/GraphQL-API-pink)  
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
 
 ---
 
 ## GitHub Stats 📊  
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gahantognoli&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gahantognoli&layout=compact&theme=radical)
 
 ---
 
@@ -40,7 +38,8 @@ Here are some technologies I work with:
 - Docker & Kubernetes  
 - Microservices Architecture  
 - Cloud Technologies (Azure, AWS)  
-- Kafka & RabbitMQ  
+- Kafka & RabbitMQ
+- Flutter
 
 ---
 
@@ -53,6 +52,4 @@ When I'm not coding, I enjoy:
 ---
 
 ## Get in Touch 📬  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-youraddress%40gmail.com-red)](mailto:youraddress@gmail.com)
+[![Email](https://img.shields.io/badge/Email-youraddress%40gmail.com-red)](mailto:gabriel_antognoli@hotmail.com)
