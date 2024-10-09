@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**gahantognoli/gahantognoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I was born in Brazil in 1998. Programming since 2014. A tech lover. Currently studying various modern technologies and working as a software engineer. I love books, games, and series.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stack
+✅ .NET Core with C#  
+✅ ReactJS with TypeScript  
+✅ NodeJS with TypeScript  
+✅ SQL Server, PostgreSQL, MySQL/MariaDB  
+✅ MongoDB, Redis  
+✅ Azure, AWS  
+✅ Docker, Kubernetes  
+✅ Flutter, React Native  
+✅ Prometheus, Grafana, Zabbix  
+✅ RabbitMQ  
+✅ Git
