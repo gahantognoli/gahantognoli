@@ -52,4 +52,4 @@ When I'm not coding, I enjoy:
 ---
 
 ## Get in Touch 📬  
-[![Email](https://img.shields.io/badge/Email-youraddress%40gmail.com-red)](mailto:gabriel_antognoli@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-gabrielantognoli%40gmail.com-red)](mailto:gabrielantognoli2@gmail.com)
