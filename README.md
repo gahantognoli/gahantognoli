@@ -1,15 +1,10 @@
-# Hi there 👋  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gabriel-antognoli-586a16134)  
-
----
 
 ## About Me 😎  
 👨‍💻 **I'm a software engineer passionate about technology!**  
 🎓 Born in Brazil in 1998. Programming since 2014.  
 🌱 Currently learning and working with modern technologies.  
 📚 I love play drums, books and games.  
-
----
 
 ## My Stack 🚀  
 Here are some technologies I work with:
@@ -24,8 +19,6 @@ Here are some technologies I work with:
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)  
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-
----
 
 ## Currently Learning 🧠  
 - Docker & Kubernetes  
