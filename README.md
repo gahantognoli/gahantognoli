@@ -1,5 +1,4 @@
-# Hi there, I'm Gabriel Antognoli! 👋  
-![Profile Views](https://komarev.com/ghpvc/?username=gahantognoli&color=blue)  
+# Hi there 👋  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gabriel-antognoli-586a16134)  
 
 ---
@@ -8,7 +7,7 @@
 👨‍💻 **I'm a software engineer passionate about technology!**  
 🎓 Born in Brazil in 1998. Programming since 2014.  
 🌱 Currently learning and working with modern technologies.  
-📚 I love books, games, and series.  
+📚 I love play drums, books and games.  
 
 ---
 
@@ -28,28 +27,10 @@ Here are some technologies I work with:
 
 ---
 
-## GitHub Stats 📊  
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gahantognoli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gahantognoli&layout=compact&theme=radical)
-
----
-
 ## Currently Learning 🧠  
 - Docker & Kubernetes  
 - Microservices Architecture  
 - Cloud Technologies (Azure, AWS)  
 - Kafka & RabbitMQ
 - Flutter
-
----
-
-## Hobbies 🎮  
-When I'm not coding, I enjoy:  
-- Playing video games (🎮 Red Dead Redemption, FIFA, etc.)  
-- Reading fantasy books (📚 Game of Thrones, Harry Potter)  
-- Watching series and movies (📺 Game of Thrones, Marvel Universe)
-
----
-
-## Get in Touch 📬  
-[![Email](https://img.shields.io/badge/Email-gabrielantognoli%40gmail.com-red)](mailto:gabrielantognoli2@gmail.com)
+- Go
